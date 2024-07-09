@@ -1,0 +1,15 @@
+Programs using inbuild functions:
+
+#Add two strings - Concatenation
+
+v1 = "Hello"
+v2 = "World"
+v = v1+ " " + v2
+
+print ("Concatenate:",v)
+
+#find the length of the string
+
+arn = "arn:aws:iam::123456789012:user/Venkatesh"
+length = len(arn)
+print ("Length of the string is:", length)
