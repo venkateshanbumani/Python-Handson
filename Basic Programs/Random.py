@@ -1,5 +1,3 @@
-import random
-
 def pick_any (name):
     if not name:
         return "Name can't be empty"
